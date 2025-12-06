@@ -24,9 +24,5 @@ pip install -r requirements.txt
 ## Running the Project
 python main.py
 
-## 📂 Project Structure
-Emotion/
-│── main.py
-│── requirements.txt
-│── README.md
-└── venv/ (ignored in .git)
+<img width="967" height="759" alt="Screenshot 2025-12-06 171525" src="https://github.com/user-attachments/assets/fa1dfa6d-c5f1-4efd-8198-e14c5710730b" />
+
